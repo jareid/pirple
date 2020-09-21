@@ -9,3 +9,9 @@
 ![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
 
 * **Homework 1** `Variables`
+
+
+## C++ For the Rest Of Us
+![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
+
+* **Homework 1** `Getting To Know Your IDE`
