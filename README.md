@@ -15,3 +15,4 @@
 ![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
 
 * **Homework 1** `Getting To Know Your IDE`
+* **Homework 2** `Data Types and Variables`
