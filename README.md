@@ -10,6 +10,7 @@
 * **Homework 5** `Control Flow`
 * **Homework 6** `Working with Arrays and Strings`
 * **Homework 7** `Procedural Programming`
+* **Homework 8** `Date and Time`
 
 ## Python Is Easy
 ![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
