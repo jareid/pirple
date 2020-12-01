@@ -9,8 +9,11 @@
 * **Homework 4** `Complex Data Types`
 * **Homework 5** `Control Flow`
 * **Homework 6** `Working with Arrays and Strings`
+* **Project 1** `Elevator System`
 * **Homework 7** `Procedural Programming`
 * **Homework 8** `Date and Time`
+* **Project 2** `Xamarin`
+
 
 ## Python Is Easy
 ![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
@@ -22,6 +25,11 @@
 * **Homework 5** `Basic Loops`
 * **Homework 6** `Advanced Loops`
 * **Homework 7** `Dictionaries And Sets`
+* **Homework 8**: `I/O`
+* **Project 1**: `Connect 4
+* **Homework 9**: `Classes`
+* **Homework 10**: `Importing`
+* **Project 2**: `Hangman`
 
 ## C++ For the Rest Of Us
 ![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
