@@ -16,7 +16,7 @@
 
 
 ## Python Is Easy
-![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
+![Completed](https://img.shields.io/badge/-Completed-blueviolet.svg)
 
 * **Homework 1** `Variables`
 * **Homework 2** `Functions`
@@ -30,6 +30,9 @@
 * **Homework 9**: `Classes`
 * **Homework 10**: `Importing`
 * **Project 2**: `Hangman`
+* **Homework 11**: `Error Handling`
+* **Final Project**: `Pick Any Card Game`
+
 
 ## C++ For the Rest Of Us
 ![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
