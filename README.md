@@ -34,8 +34,37 @@
 * **Final Project**: `Pick Any Card Game`
 
 
+## Data Mining With Python
+![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
+
+* **Homework 1** `Setup Your Workstation`
+
+
 ## C++ For the Rest Of Us
 ![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
 
 * **Homework 1** `Getting To Know Your IDE`
 * **Homework 2** `Data Types and Variables`
+
+
+## The Fundamentals of Java
+![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
+
+* **Homework 1** `Introduction`
+
+## Frontend Fundamentals
+![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
+
+* **Homework 1** `Lists`
+
+## Keeping Up With the Javascripts: ES6
+![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
+
+* **Homework 1** `Data Types`
+
+## The Node.js Master Class
+![In progress](https://img.shields.io/badge/-Studying-blueviolet.svg)
+
+
+
+
